@@ -1,6 +1,6 @@
-# Desafio de projeto Git/Github
+# Projetos/Aulas
 
-Repositório de teste para o projeto DIO
+Repositório para anotações que considero relevantes nos bootcamps da DIO
 
 ## Links
 
